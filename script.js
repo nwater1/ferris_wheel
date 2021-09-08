@@ -27,7 +27,7 @@ function addArms(numArms) {
 }
 
 //Get this party started
-addArms(10); //values between 2 and 12 work best
+addArms(6); //values between 2 and 12 work best
 TweenLite.from(ferris, 1, { autoAlpha: 0 });
 
 //Animation (super easy)
